@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525916367 source:c:\users\elias\desktop\parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1525915240 c:\users\elias\desktop\parcial\funciones.h
+
+1525915196 source:c:\users\elias\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
