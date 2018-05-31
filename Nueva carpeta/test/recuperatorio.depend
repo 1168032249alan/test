@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1526937109 source:c:\users\elias\desktop\recuperatorio\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+
+1526937850 c:\users\elias\desktop\recuperatorio\autos.h
+	"propietarios.h"
+
+1526937850 c:\users\elias\desktop\recuperatorio\propietarios.h
+
+1526937109 source:c:\users\elias\desktop\recuperatorio\propietarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"propietarios.h"
+	<time.h>
+
+1526938231 source:c:\users\elias\desktop\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"autos.h"
+
+1527777137 source:c:\users\alumno\desktop\nueva carpeta\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"autos.h"
+
+1527770566 c:\users\alumno\desktop\nueva carpeta\test\autos.h
+	"propietarios.h"
+
+1527775658 c:\users\alumno\desktop\nueva carpeta\test\propietarios.h
+
+1527776879 source:c:\users\alumno\desktop\nueva carpeta\test\propietarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"propietarios.h"
+	<time.h>
+
+1527773509 source:c:\users\alumno\desktop\nueva carpeta\test\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+
